@@ -17,5 +17,3 @@ API RESTful para gestión de tours turísticos desarrollada con Node.js, Express
 - Validaciones con Mongoose
 - Middlewares personalizados
 - Variables de entorno
-
-## 🔗 Endpoints principales
